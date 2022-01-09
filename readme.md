@@ -3,4 +3,4 @@
 </p>
 
 ![CartãoStats](https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&count_private=true&hide=issues&custom_title=Atividade%20Github&theme=dracula)
-![CartãoLingua](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=java,javascript,c%23&card_width=250&layout=compact&theme=dracula)
+![CartãoLingua](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=java,javascript,c%23&card_width=250&custom_title=Linguagens%20mais%20utilizadas&layout=compact&theme=dracula)
