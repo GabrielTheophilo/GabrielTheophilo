@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.imgur.com/JvjHJtV.png" style="width: 800px;">
+  <img src="https://i.imgur.com/MBvlDKf.png" style="width: 800px;">
 </p>
 
 ![CartãoStats](https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&count_private=true&hide=issues&custom_title=Atividade%20Github&theme=dracula)
