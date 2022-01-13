@@ -6,9 +6,9 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&count_private=true&hide=issues,prs&custom_title=Atividade%20Github&theme=dracula" style="width: 400px;height: 125px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&count_private=true&hide=issues,prs&custom_title=Github%20Activity&theme=dracula" style="width: 400px;height: 125px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=java,r,shell,assembly,lua,c%23&card_width=250&custom_title=Linguagens%20mais%20utilizadas&layout=compact&theme=dracula" style="width: 300px;height: 125px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=java,r,shell,assembly,lua,c%23&card_width=250&custom_title=Most%20used%20languages&layout=compact&theme=dracula" style="width: 300px;height: 125px;" />
   
 </p>
 
@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <h2>Tecnologias</h2>
+  <h2>Technologies im most familiar with</h2>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
