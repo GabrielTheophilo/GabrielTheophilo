@@ -8,7 +8,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&count_private=true&hide=issues,prs&custom_title=Github%20Activity&theme=dracula" style="width: 400px;height: 125px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=java,r,shell,assembly,lua,c%23&card_width=250&custom_title=Most%20used%20languages&layout=compact&theme=dracula" style="width: 300px;height: 125px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=javascript,r,c%23&card_width=250&custom_title=Most%20used%20languages&layout=compact&theme=dracula" style="width: 300px;height: 125px;" />
   
 </p>
 
