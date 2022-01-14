@@ -6,10 +6,12 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&count_private=true&hide=issues,prs&custom_title=Github%20Activity&theme=dracula" style="width: 400px;height: 125px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&include_all_commits&count_private=true&hide=issues,prs&custom_title=Github%20Activity&theme=dracula" height="125" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=javascript,r,c%23&card_width=250&custom_title=Most%20used%20languages&layout=compact&theme=dracula" style="width: 300px;height: 125px;" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=javascript,r,c%23&card_width=250&custom_title=Most%20used%20languages&layout=compact&theme=dracula" height="125"/>
+ 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&theme=dracula" height="125" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&theme=dracula" height="125"/>
 </p>
 
 
@@ -32,4 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   
+  
+  
+</div>
+
+<div = align="center">
+
 </div>
