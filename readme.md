@@ -9,9 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&include_all_commits&count_private=true&hide=issues,prs&custom_title=Github%20Activity&theme=dracula" height="125" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=javascript,r,c%23&card_width=250&custom_title=Most%20used%20languages&layout=compact&theme=dracula" height="125"/>
- 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&theme=dracula" height="125" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&theme=dracula" height="125"/>
+  <a href="https://github.com/GabrielTheophilo/ConwaysGame">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&theme=dracula" height="125" />
+  </a>
+  
+  <a href="https://github.com/GabrielTheophilo/NewsApiScript">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&theme=dracula" height="125"/>
+  </a>
 </p>
 
 
