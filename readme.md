@@ -11,8 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=c%23&card_width=250&custom_title=Most%20used%20languages&langs_count=6&layout=compact&theme=dracula" height="125"/>
   <div = align="center">
  <h2 align="center">Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
-  <h6 align="center">Currently Studying JS, Html, C++ and Python</h4>
-  <h6 align="center">Taking classes at the Federal University of Viçosa(UFV) in Brazil and studying at my own time</h4>
+  <h5 align="center">Currently Studying JS, Html, C++ and Python</h4>
+  <h5 align="center">Taking classes at the Federal University of Viçosa(UFV) in Brazil and studying at my own time</h4>
   <div align="center">
   <h4>Technologies im most familiar with</h4>
   
