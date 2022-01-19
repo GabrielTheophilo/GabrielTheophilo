@@ -6,9 +6,9 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&include_all_commits&count_private=true&hide=issues,prs&custom_title=Github%20Activity&theme=dracula" height="125" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&include_all_commits&count_private=true&hide=issues,prs&hide_border=true&custom_title=Github%20Activity&theme=dracula" height="125" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=c%23&card_width=250&custom_title=Most%20used%20languages&langs_count=6&layout=compact&theme=dracula" height="125"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=c%23&card_width=250&custom_title=Most%20used%20languages&langs_count=6&hide_border=true&layout=compact&theme=dracula" height="125"/>
   <div = align="center">
  <h2 align="center">Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
   <h5 align="center">Currently Studying JS, Html, C++ and Python</h4>
@@ -27,11 +27,11 @@
 </div>
     <h3>Check out my(own) favorite repos</h3>
   <a href="https://github.com/GabrielTheophilo/ConwaysGame">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&theme=dracula" height="125" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&hide_border=true&theme=dracula" height="125" />
   </a>
   
   <a href="https://github.com/GabrielTheophilo/NewsApiScript">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&theme=dracula" height="125"/>
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&hide_border=true&theme=dracula" height="125"/>
   </a>
 </p>
 
