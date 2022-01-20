@@ -27,11 +27,11 @@
 </div>
     <h3>Check out my(own) favorite repos</h3>
   <a href="https://github.com/GabrielTheophilo/ConwaysGame">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&hide_border=true&theme=dracula" height="155" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&hide_border=true&theme=dracula" height="125" />
   </a>
   
   <a href="https://github.com/GabrielTheophilo/NewsApiScript">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&hide_border=true&theme=dracula" height="155"/>
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=NewsApiScript&hide_border=true&theme=dracula" height="125"/>
   </a>
 </p>
 
