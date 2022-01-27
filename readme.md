@@ -12,7 +12,7 @@
   <div = align="center">
  <h1 align="center">Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
   <h4 align="center">Currently Studying JS, Html, C++ and Python</h4>
-  <h4 align="center">Taking classes at the Federal University of Viçosa(UFV) in Brazil and studying at my own time</h4>
+  <h4 align="center">Taking classes at the Federal University of Viçosa(UFV) in Brazil</h4>
   <div align="center">
   <h2>Technologies im most familiar with</h3>
   
