@@ -11,8 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&hide=java,c%23&card_width=250&exclude_repo=ConwaysGame&custom_title=Most%20used%20languages&langs_count=6&hide_border=true&layout=compact&theme=dracula" height="155em" />
   <div = align="center">
  <h1 align="center">Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
-  <h4 align="center">Currently Studying JS, Html, C++ and Python</h4>
-  <h4 align="center">Taking classes at the Federal University of Viçosa(UFV) in Brazil</h4>
+  <h4 align="center" style="text-align: justify;">Currently Studying JS, Html, C++ and Python</h4>
+  <h4 align="center" style="text-align: justify;">Taking classes at the Federal University of Viçosa(UFV) in Brazil</h4>
   <div align="center">
   <h2>Technologies im most familiar with</h3>
   
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
     
 </div>
-    <h2>Check out my(own) favorite repos</h3>
+    <h2 >Check out my(own) favorite repos</h3>
   <a href="https://github.com/GabrielTheophilo/ConwaysGame">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielTheophilo&repo=ConwaysGame&hide_border=true&theme=dracula" height="125em" />
   </a>
