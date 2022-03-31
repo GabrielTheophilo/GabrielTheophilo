@@ -8,7 +8,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieltheophilo&show_icons=true&include_all_commits&count_private=true&hide_border=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&card_width=250&exclude_repo=ConwaysGame&custom_title=Most%20used%20languages&langs_count=8&hide_border=true&layout=compact&theme=dracula" height="155em" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&card_width=250&custom_title=Most%20used%20languages&langs_count=8&hide_border=true&layout=compact&theme=dracula" height="155em" />
   <div = align="center">
  <h1 align="center">Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
   <h4 align="center" style="text-align: justify;">Currently Studying JS, Html, C++ and Python</h4>
