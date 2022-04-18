@@ -12,7 +12,7 @@
   <div = align="center">
  <h2 align="center">Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
   <h4 align="center" style="text-align: justify;">Currently Studying SQL, Java and C++</h4>
-  <h4 align="center" style="text-align: justify;">Taking classes of Computer Science (and majoring in Communications)<br>at Federal University of Viçosa(UFV) and on Serratec Full-Stack Developer Residency <br><br></h4>
+  <h4 align="center" style="text-align: justify;">Taking classes of Computer Science (and majoring in Communications)<br>at Federal University of Viçosa(UFV) and on Full-Stack Development at Serratec/Firjan Residency <br><br></h4>
   <div align="center">
     <h2>Technologies im most familiar with</h3>
   
