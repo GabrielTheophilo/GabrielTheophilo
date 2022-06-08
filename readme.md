@@ -10,6 +10,7 @@
 
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />
   <div = align="center">
+    <a href="https://www.twitter.com/theoph1lo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></\a>
  <h2 align="center"> :vulcan_salute: Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
   <h4 align="center" style="text-align: justify;">Currently Studying React.js</h4>
   <h4 align="center" style="text-align: justify;">Taking Computer Science classes at Federal University of Viçosa(UFV)<br> Full-Stack Development Bootcamp at Serratec/Firjan<br><br></h4>
