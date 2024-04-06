@@ -11,7 +11,7 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltheophilo&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />
   <div = align="center">
  <h2 align="center"> :vulcan_salute: Hi, im Gabriel, welcome to my profile :vulcan_salute:</h2>
-  <h4 align="center" style="text-align: justify;">Currently Studying React.js </h4>
+  <h4 align="center" style="text-align: justify;">Currently Studying PHP, Laravel </h4>
   <h4 align="center" style="text-align: justify;">Full Stack Web developer <br><br></h4>
   <div align="center">
     <h2>Technologies im most familiar with/Really like</h3>
